@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as alimento from './alimento/_module';

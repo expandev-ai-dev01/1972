@@ -18,3 +18,17 @@ export {
   type InitExampleLimitsType,
   type InitExamplePriority,
 } from './initExample';
+
+/**
+ * Alimento constants
+ */
+export {
+  ALIMENTO_LIMITS,
+  ALIMENTO_CATEGORIES,
+  ALIMENTO_UNITS,
+  type AlimentoLimitsType,
+  type AlimentoCategoriesType,
+  type AlimentoUnitsType,
+  type AlimentoCategory,
+  type AlimentoUnit,
+} from './alimento';

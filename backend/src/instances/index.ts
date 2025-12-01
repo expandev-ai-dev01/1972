@@ -10,3 +10,8 @@
  * InitExample instances
  */
 export { initExampleStore, type InitExampleRecord } from './initExample';
+
+/**
+ * Alimento instances
+ */
+export { alimentoStore, type AlimentoRecord } from './alimento';
